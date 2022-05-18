@@ -1,0 +1,2 @@
+Se eligió agregar la librería sweet alert ya que facilita la implementación de mensajes personalizados que mejoran la experiencia del usuario 
+Se eligió utilizar la librería como forma de alertas más amigables y llamativas para el usuario 
